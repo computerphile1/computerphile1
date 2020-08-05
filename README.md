@@ -3,7 +3,7 @@
 ## I'm a Student, Blogger, Developer, and Programmer!
 - 🔭 I’m currently working on a blog [COMPUTERPHILE][website]!
 - 🌱 I’m currently learning
-- 🥅 2020 Goals: Work in MNC
+- 🥅 2020 Goals: Work in a MNC
 - ⚡ Fun fact: I love to read facts about Maths and Science
 
 ### Connect with me:
