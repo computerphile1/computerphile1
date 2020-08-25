@@ -38,11 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TOP GIT COMMANDS EXPLAINED](https://www.computerphile.online/2020/08/top-git-commands-explained.html)
 - [Four Projects You Should Build As A React Developer](https://www.computerphile.online/2020/08/four-projects-you-should-build-as-react.html)
 - [Here it is how to save drafts in twitter](https://www.computerphile.online/2020/06/here-it-is-how-to-save-drafts-in-twitter.html)
 - [ps5 expected release : 2020, 2021, To be announced and some trailers](https://www.computerphile.online/2020/06/ps5-expected-release-2020-2021-2022-to.html)
 - [A Detailed look at the ps5 console hardware and accessories](https://www.computerphile.online/2020/06/a-detailed-look-at-ps5-console-hardware.html)
-- [QUARANTINE TALKS BY A FINAL YEAR STUDENT](https://www.computerphile.online/2020/05/quarantine-talks-by-final-year-student.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
