@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer, Blogger, and Developer!
 - 🔭 I’m currently working on a blog [COMPUTERPHILE][website]!
-- 🌱 I’m currently learning
-- 🥅 2022 Goals: Go to .... ah!!
+- 🌱 I’m currently working
+- 🥅 2023 Goals: Go to .... ah!!
 - ⚡ Fun fact: I love to read facts about Maths and Science
 
 ### Connect with me:
